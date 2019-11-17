@@ -1,9 +1,4 @@
 a=1
 # I went back to 1.py
-# I was play in dev5 and edit4  again
-# edit dev6
-# edit master
-# edit master dev who cares
-# edit dev6 nocare master
-# i dont care
+# I was play in dev8
 
